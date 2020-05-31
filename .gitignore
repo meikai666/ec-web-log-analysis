@@ -1,0 +1,7 @@
+# Created by .ignore support plugin (hsz.mobi)
+/**/test
+.idea/
+target/
+ec-web-log-analysis.iml
+data
+logs
